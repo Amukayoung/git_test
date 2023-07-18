@@ -1,3 +1,5 @@
-# git_test
+## Andela- Odin Project Assignment
 
-Hello Odin!
+## Git -Test
+
+Introduction to Git and GitHub
